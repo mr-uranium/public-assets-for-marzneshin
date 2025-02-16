@@ -69,7 +69,7 @@
           "description": " ",
           "faDescription": " ",
           "configLink": "hiddify://install-sub?url={url}",
-          "downloadLink": "https://play.google.com/store/apps/details?id=dev.hexasoftware.v2box",
+          "downloadLink": "https://play.google.com/store/apps/details?id=app.hiddify.com",
           "videoLink": "https://example.com/v2box-video"
         }
       ]
