@@ -46,8 +46,8 @@
           "name": "Husi",
           "price": "0",
           "logo": "https://raw.githubusercontent.com/mr-uranium/public-assets-for-marzneshin/refs/heads/main/icons/Husi.png",
-          "description": "A V2Ray client for Android devices.",
-          "faDescription": "V2rayNG یک کلاینت V2Ray برای دستگاه‌های اندرویدی است.",
+          "description": " ",
+          "faDescription": " ",
           "configLink": "husi://subscription?url={url}&name=NavyVPN",
           "downloadLink": "https://play.google.com/store/apps/details?id=com.v2ray.ang",
           "videoLink": "https://example.com/v2rayng-video"
@@ -56,8 +56,8 @@
           "name": "V2rayNG",
           "price": "0",
           "logo": "https://raw.githubusercontent.com/mr-uranium/public-assets-for-marzneshin/refs/heads/main/icons/V2rayNG.png",
-          "description": "A V2Ray client for Android devices.",
-          "faDescription": "V2rayNG یک کلاینت V2Ray برای دستگاه‌های اندرویدی است.",
+          "description": " ",
+          "faDescription": " ",
           "configLink": "v2rayng://install-config?url={url}",
           "downloadLink": "https://play.google.com/store/apps/details?id=com.v2ray.ang",
           "videoLink": "https://example.com/v2rayng-video"
@@ -66,8 +66,8 @@
           "name": "Hiddify",
           "price": "0",
           "logo": "https://raw.githubusercontent.com/mr-uranium/public-assets-for-marzneshin/refs/heads/main/icons/Hiddify.png",
-          "description": "A cross-platform V2Ray client.",
-          "faDescription": "V2Box یک کلاینت V2Ray چندسکویی است.",
+          "description": " ",
+          "faDescription": " ",
           "configLink": "v2box://install-sub?url={url}&name=SUBnew",
           "downloadLink": "https://play.google.com/store/apps/details?id=dev.hexasoftware.v2box",
           "videoLink": "https://example.com/v2box-video"
