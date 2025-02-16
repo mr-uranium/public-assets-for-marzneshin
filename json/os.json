@@ -45,7 +45,7 @@
         {
           "name": "husi",
           "price": "0",
-          "logo": "https://raw.githubusercontent.com/mr-uranium/public-assets-for-marzneshin/refs/heads/main/icons/husi.png",
+          "logo": "https://raw.githubusercontent.com/mr-uranium/public-assets-for-marzneshin/refs/heads/main/icons/v2rayNG.png",
           "description": "A V2Ray client for Android devices.",
           "faDescription": "V2rayNG یک کلاینت V2Ray برای دستگاه‌های اندرویدی است.",
           "configLink": "husi://subscription?url={url}&name=NavyVPN",
