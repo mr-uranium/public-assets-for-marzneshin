@@ -18,7 +18,7 @@
         {
           "name": "Happ",
           "price": "0",
-          "logo": "https://raw.githubusercontent.com/mr-uranium/public-assets-for-marzneshin/refs/heads/main/icons/happ.jpg",
+          "logo": "https://raw.githubusercontent.com/mr-uranium/public-assets-for-marzneshin/refs/heads/main/icons/happ.png",
           "description": " ",
           "faDescription": " ",
           "configLink": "happ://install-sub?url={url}",
@@ -31,7 +31,7 @@
           "logo": "https://raw.githubusercontent.com/mr-uranium/public-assets-for-marzneshin/refs/heads/main/icons/v2box.png",
           "description": " ",
           "faDescription": " ",
-          "configLink": "v2box://install-sub?url={url}",
+          "configLink": "v2box://import-sub?url={url}",
           "downloadLink": "https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690",
           "videoLink": "https://example.com/v2box-video"
         }
