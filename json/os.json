@@ -48,7 +48,7 @@
           "logo": "https://raw.githubusercontent.com/mr-uranium/public-assets-for-marzneshin/refs/heads/main/icons/happ.png",
           "description": " ",
           "faDescription": " ",
-          "configLink": "happ://subscription?url={url}&name=NavyVPN",
+          "configLink": "happ://add/{url}",
           "downloadLink": "https://github.com/Happ-proxy/happ-android/releases/latest/download/Happ.apk",
           "videoLink": "https://example.com/v2rayng-video"
         },
