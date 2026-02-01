@@ -43,13 +43,13 @@
       "osLogo": "https://raw.githubusercontent.com/mr-uranium/public-assets-for-marzneshin/refs/heads/main/icons/Android_logo_2019.svg.png",
       "apps": [
         {
-          "name": "Husi",
+          "name": "Happ",
           "price": "0",
-          "logo": "https://raw.githubusercontent.com/mr-uranium/public-assets-for-marzneshin/refs/heads/main/icons/Husi.png",
+          "logo": "https://raw.githubusercontent.com/mr-uranium/public-assets-for-marzneshin/refs/heads/main/icons/happ.png",
           "description": " ",
           "faDescription": " ",
-          "configLink": "husi://subscription?url={url}&name=NavyVPN",
-          "downloadLink": "https://github.com/xchacha20-poly1305/husi/releases/download/v0.15.12/husi-0.15.12-armeabi-v7a.apk",
+          "configLink": "happ://subscription?url={url}&name=NavyVPN",
+          "downloadLink": "https://github.com/Happ-proxy/happ-android/releases/latest/download/Happ.apk",
           "videoLink": "https://example.com/v2rayng-video"
         },
         {
