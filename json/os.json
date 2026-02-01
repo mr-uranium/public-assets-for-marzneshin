@@ -63,13 +63,13 @@
           "videoLink": "https://example.com/v2rayng-video"
         },
         {
-          "name": "Hiddify",
+          "name": "Exclave",
           "price": "0",
-          "logo": "https://raw.githubusercontent.com/mr-uranium/public-assets-for-marzneshin/refs/heads/main/icons/Hiddify.png",
+          "logo": "https://raw.githubusercontent.com/mr-uranium/public-assets-for-marzneshin/refs/heads/main/icons/exclave.png",
           "description": " ",
           "faDescription": " ",
-          "configLink": "hiddify://install-sub?url={url}",
-          "downloadLink": "https://play.google.com/store/apps/details?id=app.hiddify.com",
+          "configLink": "exclave://subscription?url={url}&name=NavyVPN",
+          "downloadLink": "https://github.com/dyhkwong/Exclave/releases/download/0.17.10/Exclave-0.17.10-armeabi-v7a.apk",
           "videoLink": "https://example.com/v2box-video"
         }
       ]
