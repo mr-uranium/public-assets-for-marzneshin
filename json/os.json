@@ -49,7 +49,7 @@
           "description": " ",
           "faDescription": " ",
           "configLink": "husi://subscription?url={url}&name=NavyVPN",
-          "downloadLink": "https://github.com/xchacha20-poly1305/husi/releases/download/v0.10.26/husi-0.10.26-armeabi-v7a.apk",
+          "downloadLink": "https://github.com/xchacha20-poly1305/husi/releases/download/v0.15.12/husi-0.15.12-armeabi-v7a.apk",
           "videoLink": "https://example.com/v2rayng-video"
         },
         {
@@ -59,7 +59,7 @@
           "description": " ",
           "faDescription": " ",
           "configLink": "v2rayng://install-config?url={url}",
-          "downloadLink": "https://github.com/2dust/v2rayNG/releases/download/1.10.4/v2rayNG_1.10.4_universal.apk",
+          "downloadLink": "https://github.com/2dust/v2rayNG/releases/download/1.10.32/v2rayNG_1.10.32_universal.apk",
           "videoLink": "https://example.com/v2rayng-video"
         },
         {
@@ -82,18 +82,18 @@
         {
           "name": "V2rayN",
           "price": "0",
-          "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/v2rayN.png",
-          "description": "A Windows V2Ray client with GUI support.",
-          "faDescription": "v2rayN یک کلاینت V2Ray برای ویندوز با پشتیبانی از رابط کاربری است.",
-          "downloadLink": "https://github.com/2dust/v2rayN/releases/latest/download/v2rayN-windows-64-With-Core.zip",
+          "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/Throne.png",
+          "description": " ",
+          "faDescription": " ",
+          "downloadLink": "https://github.com/throneproj/Throne/releases/download/1.0.13/Throne-1.0.13-windows64-installer.exe",
           "videoLink": "https://example.com/v2rayn-video"
         },
         {
           "name": "Nekoray",
           "price": "0",
           "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/nekoray.jpeg",
-          "description": "A cross-platform GUI client for V2Ray.",
-          "faDescription": "NekoRay یک کلاینت GUI چندسکویی برای V2Ray است.",
+          "description": " ",
+          "faDescription": " ",
           "downloadLink": "https://github.com/MatsuriDayo/nekoray/releases/latest",
           "videoLink": "https://example.com/nekoray-video"
         }
